@@ -1,0 +1,167 @@
+{
+    "tours": [
+    {
+        "title": "Grand Canyon Adventure",
+        "description": "Explore the wonders of the Grand Canyon...",
+        "price": "$299",
+        "startDate": "2025-05-01",
+        "endDate": "2025-05-15",
+        "location": "Grand Canyon, USA",
+        "image": "/images/grand-canyon.jpg",
+        "rating": 4.5,
+        "theme": "Adventure",
+        "activities": ["Hiking", "Photography"],
+        "groupSize": 15,
+        "vehicle": "Safari Jeep",
+        "features": ["Transfer", "Halal Food"]
+    },
+    {
+        "title": "Paris City Lights",
+        "description": "A magical evening in Paris...",
+        "price": "$199",
+        "startDate": "2025-06-10",
+        "endDate": "2025-06-15",
+        "location": "Paris, France",
+        "image": "/images/paris-lights.jpg",
+        "rating": 4.8,
+        "theme": "City Tour",
+        "activities": ["Walking", "Sightseeing"],
+        "groupSize": 10,
+        "vehicle": "Bus",
+        "features": ["Vegetarian Food", "Transfer"]
+    },
+    {
+        "title": "Japanese Zen Garden Tour",
+        "description": "Discover the peaceful beauty...",
+        "price": "$250",
+        "startDate": "2025-07-01",
+        "endDate": "2025-07-10",
+        "location": "Japan",
+        "image": "/images/zen-garden.jpg",
+        "rating": 4.2,
+        "theme": "Nature",
+        "activities": ["Meditation", "Photography"],
+        "groupSize": 8,
+        "vehicle": "Speedboat",
+        "features": ["Halal Food", "Vegetarian Food"]
+    },
+    {
+        "title": "African Safari Expedition",
+        "description": "Experience the wild side of Africa...",
+        "price": "$500",
+        "startDate": "2025-08-15",
+        "endDate": "2025-08-25",
+        "location": "Serengeti, Tanzania",
+        "image": "/images/africa-safari.jpg",
+        "rating": 4.7,
+        "theme": "Wildlife",
+        "activities": ["Safari", "Photography"],
+        "groupSize": 12,
+        "vehicle": "4x4 Land Cruiser",
+        "features": ["Halal Food", "Transfer"]
+    },
+    {
+        "title": "Norwegian Fjords Cruise",
+        "description": "Sail through the breathtaking fjords of Norway...",
+        "price": "$750",
+        "startDate": "2025-09-05",
+        "endDate": "2025-09-15",
+        "location": "Norway",
+        "image": "/images/norway-fjords.jpg",
+        "rating": 4.9,
+        "theme": "Cruise",
+        "activities": ["Sailing", "Wildlife Watching"],
+        "groupSize": 20,
+        "vehicle": "Luxury Cruise Ship",
+        "features": ["Vegetarian Food", "Transfer"]
+    },
+    {
+        "title": "Amazon Rainforest Expedition",
+        "description": "Dive deep into the heart of the Amazon...",
+        "price": "$650",
+        "startDate": "2025-10-10",
+        "endDate": "2025-10-20",
+        "location": "Amazon, Brazil",
+        "image": "/images/amazon-expedition.jpg",
+        "rating": 4.6,
+        "theme": "Jungle",
+        "activities": ["Hiking", "Kayaking"],
+        "groupSize": 6,
+        "vehicle": "Speedboat",
+        "features": ["Halal Food", "Vegetarian Food", "Transfer"]
+    }
+]
+,
+    "tickets": [
+        {
+            "title": "Live Concert: The Weekend",
+            "description": "Join us for an unforgettable live concert experience with The Weekend.",
+            "price": "$120",
+            "date": "2025-04-20",
+            "location": "Madison Square Garden, New York",
+            "image": "/images/weekend-concert.jpg"
+        },
+        {
+            "title": "Broadway Show: The Lion King",
+            "description": "A magical Broadway show with amazing performances and visuals.",
+            "price": "$85",
+            "date": "2025-05-05",
+            "location": "Broadway, New York",
+            "image": "/images/lion-king-broadway.jpg"
+        },
+        {
+            "title": "Comedy Night: Stand Up Special",
+            "description": "Laugh till you drop at our special stand-up comedy night with top comedians.",
+            "price": "$60",
+            "date": "2025-06-15",
+            "location": "The Laugh Factory, Los Angeles",
+            "image": "/images/comedy-night.jpg"
+        }
+    ],
+    "rent": [
+        {
+            "title": "Luxury SUV Rental",
+            "description": "Rent a luxury SUV for your next adventure with high comfort and style.",
+            "price": "$150 per day",
+            "location": "Los Angeles, USA",
+            "image": "/images/luxury-suv.jpg"
+        },
+        {
+            "title": "Compact Car Rental",
+            "description": "Perfect for city drives, compact and fuel-efficient car rental.",
+            "price": "$50 per day",
+            "location": "Paris, France",
+            "image": "/images/compact-car.jpg"
+        },
+        {
+            "title": "Convertible Car Rental",
+            "description": "Drive around in style with our convertible car rentals for a fun and thrilling experience.",
+            "price": "$200 per day",
+            "location": "Miami, USA",
+            "image": "/images/convertible-car.jpg"
+        }
+    ],
+    "transfer": [
+        {
+            "title": "Airport Transfer (New York to JFK)",
+            "description": "Reliable and comfortable airport transfer service from NYC to JFK airport.",
+            "price": "$70",
+            "location": "New York to JFK Airport",
+            "image": "/images/airport-transfer.jpg"
+        },
+        {
+            "title": "Hotel to Airport Transfer (Paris)",
+            "description": "Private transfer from your hotel to Paris Charles de Gaulle Airport.",
+            "price": "$50",
+            "location": "Paris to Charles de Gaulle Airport",
+            "image": "/images/hotel-to-airport.jpg"
+        },
+        {
+            "title": "City Transfer (Rome to Vatican)",
+            "description": "Exclusive city transfer service from Rome city center to the Vatican.",
+            "price": "$40",
+            "location": "Rome to Vatican",
+            "image": "/images/city-transfer.jpg"
+        }
+    ]
+}
