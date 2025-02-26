@@ -39,7 +39,7 @@ const TicketList = () => {
                 {displayData.map((ticket, index) => (
                     <div
                         key={index}
-                        className=" bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300"
+                        className="w-full md:w-auto  bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300"
                     >
                         <img
                             src={ticket.image}
