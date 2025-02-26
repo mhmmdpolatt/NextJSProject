@@ -43,7 +43,7 @@ const CategoryMenu = ({ menuOpen, setMenuOpen }) => {
 
   return (
     <div
-      className={`absolute top-0 left-0 md:left-[-75px] h-[100vh] w-[100vw] md:w-[28vw] bg-[#E07516] z-50 shadow-lg transform ${menuOpen ? "translate-x-0" : "-translate-x-full"} transition-transform duration-300 overflow-scroll`}
+      className={`absolute top-0 left-0 md:left-[-75px] h-[100vh] w-[100vw] md:w-[28vw] bg-[#E07516] z-50 shadow-lg transform ${menuOpen ? "translate-x-0" : "hidden -translate-x-full"} transition-transform duration-300 overflow-scroll`}
     >
       {/* Kapatma Butonu */}
       <div className="flex justify-between items-center p-4 border-b border-white">
