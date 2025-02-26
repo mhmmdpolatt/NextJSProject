@@ -31,15 +31,15 @@ const TicketList = () => {
     }
 
     return (
-        <div id="Tickets" className="max-w-6xl mx-auto p-6">
+        <div id="Tickets" className="w-full md:max-w-6xl mx-auto p-6">
             <h2 className="text-3xl font-bold text-primary-600 mb-6 text-center">
                 Available Tickets
             </h2>
-            <div className="flex justify-center items-center gap-6">
+            <div className="flex flex-wrap justify-center items-center gap-6">
                 {displayData.map((ticket, index) => (
                     <div
                         key={index}
-                        className="bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300"
+                        className=" bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300"
                     >
                         <img
                             src={ticket.image}
