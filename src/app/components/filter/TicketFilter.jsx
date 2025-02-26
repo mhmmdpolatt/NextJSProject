@@ -118,7 +118,7 @@ const TicketsFilter = ({ category, menuOpen, setMenuOpen }) => {
         </button>
         <button className="bg-primary-500 text-gray-600 p-2 rounded-md mb-4 mt-4 w-1/3" onClick={clearFiltersr}>Temizle</button>
         <span className={`${filteredData.length === 0 ? "hidden" : "block text-nowrap text-white"}`} >{filteredData.length} Sonuç <button className="underline" onClick={() => setMenuOpen(false)}><Link href="#Tickets">Göster</Link></button> </span> <br />
-        {filteredData.length === 0 ? <span className="text-white ">0 Sonuç Uygun Turları<button className="underline" onClick={() => setMenuOpen(false)}><Link href="#Tickets">Göster</Link></button></span> : null}
+        {filteredData.length === 0 ? <span className="text-white ">0 Sonuç || Tüm Turları<button className="underline" onClick={() => setMenuOpen(false)}><Link href="#Tickets">Göster</Link></button></span> : null}
       </div>
 
 
