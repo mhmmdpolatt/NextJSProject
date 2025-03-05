@@ -3,9 +3,7 @@
 
 **ToursApp**, kullanıcıların seyahat turu tercihlerine göre filtreleme yapabileceği bir platformdur. Bu uygulama, **Next.js** ile geliştirilmiştir ve kullanıcılara aşağıdaki olanakları sunar:
 
-- **Şehir Filtresi**: Kullanıcılar, turlar arasında şehir bazında filtreleme yapabilir.
-- **Fiyat Aralığı Seçimi**: Kullanıcılar, belirledikleri fiyat aralığına göre turlarını filtreleyebilir.
-- **Kategorilere Göre Filtreleme**: Kullanıcılar turları belirli kategorilere göre sıralayabilir.
+- **DETAYLI FİLTRELEME SEÇENEKLERİ İÇİN GELİŞTİRİLMİŞ**:Tarih Fİyat Konum Özel Tercihler Özel Araç Terchihleri Ve Daha Bir Çok Filtreleme Seçeneğini Test Etmek İçin
 -  **Projeye Git / Görüntüle**:  https://next-js-project-psi-green.vercel.app/
 
 Amacımız, kullanıcıların seyahat tercihlerine göre en uygun turları kolayca bulabilmelerini sağlamak ve filtreleme işlevselliğini hızlı ve etkili bir şekilde sunmaktır.
