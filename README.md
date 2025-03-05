@@ -1,9 +1,19 @@
->>>PROJEYİ GÖRÜNTÜLEMEK İÇİN https://next-js-project-psi-green.vercel.app/
+ 
+# **ToursApp - Next.js Project**
 
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**ToursApp**, kullanıcıların seyahat turu tercihlerine göre filtreleme yapabileceği bir platformdur. Bu uygulama, **Next.js** ile geliştirilmiştir ve kullanıcılara aşağıdaki olanakları sunar:
 
-## Getting Started
+- **Şehir Filtresi**: Kullanıcılar, turlar arasında şehir bazında filtreleme yapabilir.
+- **Fiyat Aralığı Seçimi**: Kullanıcılar, belirledikleri fiyat aralığına göre turlarını filtreleyebilir.
+- **Kategorilere Göre Filtreleme**: Kullanıcılar turları belirli kategorilere göre sıralayabilir.
+-  **Projeye Git / Görüntüle**:  https://next-js-project-psi-green.vercel.app/
+
+Amacımız, kullanıcıların seyahat tercihlerine göre en uygun turları kolayca bulabilmelerini sağlamak ve filtreleme işlevselliğini hızlı ve etkili bir şekilde sunmaktır.
+
+
+
+
+## KURULUM
 
 First, run the development server:
 
